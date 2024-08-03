@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-me chamo Gustavo e sou estudante de programação e estou fazendo projetos com:
+Me chamo Gustavo e sou estudante de programação e estou fazendo projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
