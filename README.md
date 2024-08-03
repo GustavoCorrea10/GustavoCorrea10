@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 Me chamo Gustavo e sou estudante de programação e estou fazendo projetos com:
 <br>
