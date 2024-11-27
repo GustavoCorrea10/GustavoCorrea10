@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Gustavo e sou estudante de programação e estou fazendo projetos com:
+Front-end usando tecnologias, como:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
