@@ -1,6 +1,7 @@
 ## Olá 👋
 
-me chamo Gustavo e sou programador Front-end usando tecnologias, como:
+ME CHMO GUSTAVO E SOU DESENVOLVEDOR
+TECNOLOGIAS USADAS:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
