@@ -1,4 +1,8 @@
-### Olá! Eu sou o Gustavo Corrêa 👋
+<div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11294fff&height=120&section=header"/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?theme=github_dark&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Gustavo+Corrêa+;+Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 ---
 
 
@@ -44,3 +48,7 @@ Sou apaixonado por tecnologia. 🚀 Atualmente, estou me aprofundando no desenvo
 
 ---
 💡 *"Sempre aprendendo e evoluindo!"* 🚀
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11294fff&height=120&section=footer"/>
+
