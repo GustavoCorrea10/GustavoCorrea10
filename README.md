@@ -41,7 +41,7 @@
 ### 📊 Estatísticas do GitHub
 <div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoCorrea10&show_icons=true&theme=dracula" style="width: 48%; height: 200px; object-fit: cover;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCorrea10&layout=compact&theme=dracula" style="width: 50%; height: 190px; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCorrea10&layout=compact&theme=dracula" style="width: 50%; height: 180px; object-fit: cover;"/>
 </div>
 
 
