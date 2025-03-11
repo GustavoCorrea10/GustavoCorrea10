@@ -1,7 +1,11 @@
-## Olá! Eu sou o Gustavo Corrêa 👋
+### Olá! Eu sou o Gustavo Corrêa 👋
+---
+
 
 ### 🚀 Sobre mim
 Sou apaixonado por tecnologia. 🚀 Atualmente, estou me aprofundando no desenvolvimento de software e sempre buscando aprender mais. 💻 Além disso, gosto de jogar videogame nos meus momentos de lazer. 🎮 Estou focado em aprimorar minhas habilidades e me tornar um profissional cada vez mais versátil.
+
+---
 
 ### 🔧 Tecnologias e Ferramentas
 <p align="left">
@@ -16,13 +20,16 @@ Sou apaixonado por tecnologia. 🚀 Atualmente, estou me aprofundando no desenvo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js" style="margin-right: 20px;"/>
 </p>
 
+---
+
 
 ### 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCorrea10&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCorrea10&layout=compact&theme=dark" />
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCorrea10&show_icons=true&theme=dracula" style="width: 50%; margin-bottom: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCorrea10&layout=compact&theme=dark" style="width: 50%;"/>
+</div>
 
+---
 
 ### 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GustavoCorrea10)
