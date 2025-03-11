@@ -24,10 +24,11 @@ Sou apaixonado por tecnologia. 🚀 Atualmente, estou me aprofundando no desenvo
 
 
 ### 📊 Estatísticas do GitHub
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCorrea10&show_icons=true&theme=dracula" style="width: 50%; margin-bottom: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCorrea10&layout=compact&theme=dark" style="width: 50%;"/>
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCorrea10&show_icons=true&theme=dracula" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCorrea10&layout=compact&theme=dark" style="width: 48%;"/>
 </div>
+
 
 ---
 
